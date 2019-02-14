@@ -12,9 +12,6 @@ Objective
 	A creative and detailed individual with ability to develop effective and efficient solutions with zero tolerance for errors. Looking to join a progressive tech company where my technical skills will be fully harnessed.
 	A reliable and detailed-oriented individual looking to work as software engineer. Offering expertise in Java, HTML, C++, and core web design.
 
-Experience
-	//none yet
-
 Education
 	Saint Louis University
 		Baguio City, Philippines
